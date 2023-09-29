@@ -13,6 +13,6 @@ No GNU/Linux Debian e derivados: `sudo apt install ffmpeg`
 3. Executar para instalar as dependências do script
     `pip install -r requirements.txt`
 4. Execute o script informando o arquivo de áudio, conforme o exemplo
-   `python3 transcrever-audio2text /caminho/onde/esta/audio.mp3`
+   `python3 transcrever-audio2text.py /caminho/onde/esta/audio.mp3`
 
 Feito!
